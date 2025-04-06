@@ -112,17 +112,27 @@ The `Sci-PHY` module may be shared under an open license upon request or release
 
 ---
 
-## 🧠 Developed By
+## Developed By
 
 **The Moshelion Lab**  
 Robert H. Smith Faculty of Agriculture, Food and Environment  
 The Hebrew University of Jerusalem, Rehovot, Israel
 
-- **Idan Ifrach**, Hebrew University of Jerusalem Israel | [idan.ifrachi@mail.huji.ac.il](mailto:idan.ifrachi@mail.huji.ac.il) | [GitHub](https://github.com/ifrachi) | [LinkedIn](https://www.linkedin.com/in/ifrachi/) | [ORCID](https://orcid.org/0009-0000-0552-0935)
+- **Idan Ifrach**  
+  PhD Student, Hebrew University of Jerusalem, Israel  
+  [idan.ifrachi@mail.huji.ac.il](mailto:idan.ifrachi@mail.huji.ac.il) | [GitHub](https://github.com/ifrachi) | [LinkedIn](https://www.linkedin.com/in/ifrachi/) | [ORCID](https://orcid.org/0009-0000-0552-0935)
 
-- **Nir Averbuch**, PhD Student, Hebrew University of Jerusalem Israel [averbuch.nir@gmail.com](mailto:averbuch.nir@gmail.com) | [GitHub](https://github.com/averbuchnir)
+- **Nir Averbuch**  
+  PhD Student, Hebrew University of Jerusalem, Israel  
+  [averbuch.nir@gmail.com](mailto:averbuch.nir@gmail.com) | [GitHub](https://github.com/averbuchnir)
 
-- **Prof. Menachem Moshelion**, Hebrew University of Jerusalem, Israel [menachem.moshelion@mail.huji.ac.il](mailto:menachem.moshelion@mail.huji.ac.il) | [LinkedIn](https://il.linkedin.com/in/menachem-moshelion-45aa689a) | [ORCID](https://orcid.org/0000-0003-0156-2884)
+- **Shani Friedman**  
+  PhD Student, Hebrew University of Jerusalem, Israel  
+  [shani.goldfarb@mail.huji.ac.il](mailto:shani.goldfarb@mail.huji.ac.il) | [GitHub](https://github.com/shaniplant)
+
+- **Prof. Menachem Moshelion**  
+  Hebrew University of Jerusalem, Israel  
+  [menachem.moshelion@mail.huji.ac.il](mailto:menachem.moshelion@mail.huji.ac.il) | [LinkedIn](https://il.linkedin.com/in/menachem-moshelion-45aa689a) | [ORCID](https://orcid.org/0000-0003-0156-2884)
 
 ---
 
